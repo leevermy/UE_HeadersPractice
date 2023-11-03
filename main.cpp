@@ -1,3 +1,6 @@
+// Goryanin Aleksey
+// risnotr@gmail.com
+
 #include "helpers.h"
 #include "test.h"
 
